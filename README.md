@@ -1,4 +1,4 @@
-Métodos Numéricos en Python
+ ✅Métodos Numéricos en Python✅
 
 Este repositorio contiene tres programas en Python para métodos numéricos clásicos, diseñados para ser claros, interactivos y sin dependencias externas.
 
